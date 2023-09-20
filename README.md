@@ -7,7 +7,7 @@
 
 - 🌱 J'apprends actuellement **Machine Learning**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/MarvensChery?tab=repositories)
+- 👨‍💻 Tous mes projets sont disponibles sur https://github.com/MarvensChery?tab=repositories
 
 - 💬 Demande moi à propos de **Javascript**
 
