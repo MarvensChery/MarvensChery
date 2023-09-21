@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvenschery&label=Profile%20views&color=0e75b6&style=flat" alt="marvenschery" /> </p>
 
-- 🔭 Présentement je travaille sur [Nav Mtl](lienproject)
+- 🔭 Présentement je travaille sur [Nav Mtl]([https://github.com/MarvensChery/navMtl)
 
 - 🌱 J'apprends actuellement **Machine Learning**
 
