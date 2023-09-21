@@ -7,13 +7,13 @@
 
 - 🌱 J'apprends actuellement **Machine Learning**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/MarvensChery?tab=repositories]
+- 👨‍💻 Tous mes projets sont disponibles sur [ici](https://github.com/MarvensChery?tab=repositories)
 
 - 💬 Demande moi à propos de **Javascript**
 
 - 📫Comment me joindre **marvenschery6@gmail.com**
 
-- 📄Connaître mes expériences [https://docs.google.com/document/d/1rejpd-ADLT-fm0mkTChvtUTpyjLu53ZnXyxrjpvWwxI/edit?usp=sharing](https://docs.google.com/document/d/1rejpd-ADLT-fm0mkTChvtUTpyjLu53ZnXyxrjpvWwxI/edit?usp=sharing)
+- 📄Connaître mes expériences [ici](https://docs.google.com/document/d/1rejpd-ADLT-fm0mkTChvtUTpyjLu53ZnXyxrjpvWwxI/edit?usp=sharing)
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
