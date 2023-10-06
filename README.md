@@ -13,7 +13,7 @@
 
 - 📫Comment me joindre **marvenschery6@gmail.com**
 
-- 📄Connaître mes expériences [ici](https://docs.google.com/document/d/1rejpd-ADLT-fm0mkTChvtUTpyjLu53ZnXyxrjpvWwxI/edit?usp=sharing)
+- 📄Connaître mes expériences [ici](https://drive.google.com/file/d/1ZkibvzH6OjCeBpg8wYa_f4kxO56OZFJi/view?usp=sharing)
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
