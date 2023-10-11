@@ -5,7 +5,7 @@
 
 - 🔭 Présentement je travaille sur [Nav Mtl](https://github.com/MarvensChery/NavMtl-Backend)
 
-- 🌱 J'apprends actuellement **Machine Learning**
+- 🌱 J'apprends actuellement **Machine Learning, Natural language processing (NLP)**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [ici](https://github.com/MarvensChery?tab=repositories)
 
