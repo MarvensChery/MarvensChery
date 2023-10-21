@@ -9,7 +9,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [ici](https://github.com/MarvensChery?tab=repositories)
 
-- 💬 Demande moi à propos de **Javascript**
+- 💬 Demande moi à propos de **Python**
 
 - 📫Comment me joindre **marvenschery6@gmail.com**
 
