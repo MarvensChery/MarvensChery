@@ -83,4 +83,4 @@ I'm mainly interested in building software that solves real problems and working
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/marvenschery/)
-[Portfolio](YOUR_PORTFOLIO_URL)
+[Portfolio](https://marvenschery.com/)
