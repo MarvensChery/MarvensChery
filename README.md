@@ -1,91 +1,80 @@
-<h1 align="center">Hi, I'm Marvens Chery 👋</h1>
+# Hi, I'm Marvens 👋
 
-<p align="center">
-  Software Engineering Student @ ÉTS • Full-Stack Developer • AI Enthusiast
-</p>
+Software Engineering student at **ÉTS Montréal** focused on building real-world software products.
 
-<p align="center">
-  <a href="mailto:marvenschery6@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/marvenschery">LinkedIn</a> •
-  <a href="https://marvenschery.com">Portfolio</a> •
-  <a href="https://github.com/MarvensChery?tab=repositories">Projects</a>
-</p>
-
----
-
-## About me
-
-I'm a software engineering student at ÉTS in Montreal, with a strong interest in full-stack development, artificial intelligence, and building useful web applications.
-
-I enjoy creating clean, practical projects that solve real problems, especially with React, Node.js, Express, Python, and modern web technologies.
-
-Currently, I'm improving my skills in machine learning, natural language processing, and backend development.
-
----
+I'm currently working on **Raizen**, a financial education platform, as a **Co-founder & Software Engineer**.
 
 ## What I'm working on
 
-### CryptoPlace
-A crypto market prediction platform focused on market data, sentiment analysis, and user-friendly dashboards.
+* Building **Raizen** with Next.js, TypeScript, Supabase and PostgreSQL
+* Improving my full-stack and backend engineering skills
+* Learning more about software architecture, databases and scalable systems
 
-**Tech stack:** React, Node.js, Express, APIs, sentiment analysis
+## Featured Projects
 
-### Nav Mtl
-A project related to navigation and transportation in Montreal.
+### 🚗 NAV MTL
 
-**Repository:** [Nav Mtl Backend](https://github.com/MarvensChery/NavMtl-Backend)
+Parking-assistance application built to help drivers navigate Montréal parking restrictions.
+
+**Tech:** Java · Android · Mapbox · Node.js · Express · SQL Server
+
+The public repository contains the backend API. The original Android application is demonstrated through a GIF in the repository.
+
+[View NAV MTL](https://github.com/MarvensChery/NavMtl-Backend)
 
 ---
 
-## Tech stack
+### 📈 CryptoPlace
+
+Full-stack cryptocurrency market application for exploring prices, market data and sentiment.
+
+**Tech:** React · Vite · Node.js · Express · CoinGecko API
+
+Includes a video demo of the application.
+
+[View CryptoPlace](https://github.com/MarvensChery/CryptoPlace)
+
+---
+
+### 🌱 Raizen
+
+Financial education platform designed to make investing and financial concepts easier to understand.
+
+**Tech:** Next.js · TypeScript · Supabase · PostgreSQL
+
+I'm working on the product architecture, frontend, backend and database.
+
+> Raizen is currently under development and the source code is private.
+
+## Tech Stack
+
+### Languages
+
+`Java` `Python` `C` `C++` `TypeScript` `JavaScript` `SQL` `PHP`
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-</p>
+
+`React` `Next.js` `HTML` `CSS`
 
 ### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
-</p>
 
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,postman,linux" />
-</p>
+`Node.js` `Express` `Symfony` `REST APIs`
 
-### Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+### Databases & Cloud
 
----
+`PostgreSQL` `SQL Server` `Supabase` `Google Cloud`
 
-## Featured projects
+### Tools
 
-| Project | Description | Tech |
-|---|---|---|
-| [CryptoPlace](https://github.com/MarvensChery/CryptoPlace) | Crypto market dashboard and prediction platform using sentiment analysis | React, Node.js, Express |
-| [Nav Mtl Backend](https://github.com/MarvensChery/NavMtl-Backend) | Backend project related to navigation in Montreal | Node.js / Backend |
-| [Portfolio](https://marvenschery.com) | Personal portfolio showcasing my projects and experience | React / Web |
+`Git` `Docker` `VS Code` `IntelliJ`
 
----
+## About Me
 
-## GitHub stats
+* 🎓 Software Engineering student at ÉTS Montréal
+* 💻 Interested in full-stack, backend and product engineering
+* 🚀 Co-founder of Raizen
+* 📍 Montréal, Canada
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarvensChery&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvensChery&layout=compact&theme=tokyonight" height="160" />
-</p>
+## Connect
 
----
-
-## Contact
-
-I'm currently looking for internship opportunities in software development, full-stack development, and AI-related projects.
-
-You can reach me at:
-
-**Email:** marvenschery6@gmail.com  
-**LinkedIn:** [linkedin.com/in/marvenschery](https://linkedin.com/in/marvenschery)  
-**Portfolio:** [marvenschery.com](https://marvenschery.com)
+[LinkedIn](https://www.linkedin.com/in/marvenschery/)
